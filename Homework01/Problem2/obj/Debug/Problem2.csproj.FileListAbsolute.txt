@@ -1,0 +1,6 @@
+D:\GitHub\CS263_Homework\Homework01\Problem2\bin\Debug\Problem2.exe.config
+D:\GitHub\CS263_Homework\Homework01\Problem2\obj\Debug\Problem2.csprojResolveAssemblyReference.cache
+D:\GitHub\CS263_Homework\Homework01\Problem2\bin\Debug\Problem2.exe
+D:\GitHub\CS263_Homework\Homework01\Problem2\bin\Debug\Problem2.pdb
+D:\GitHub\CS263_Homework\Homework01\Problem2\obj\Debug\Problem2.exe
+D:\GitHub\CS263_Homework\Homework01\Problem2\obj\Debug\Problem2.pdb
