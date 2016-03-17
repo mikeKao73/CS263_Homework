@@ -1,0 +1,8 @@
+D:\GitHub\CS263_Homework\Homework02\Parctice\bin\Debug\Parctice.exe.config
+D:\GitHub\CS263_Homework\Homework02\Parctice\bin\Debug\Parctice.exe
+D:\GitHub\CS263_Homework\Homework02\Parctice\bin\Debug\Parctice.pdb
+D:\GitHub\CS263_Homework\Homework02\Parctice\bin\Debug\GradeLibrary.dll
+D:\GitHub\CS263_Homework\Homework02\Parctice\bin\Debug\GradeLibrary.pdb
+D:\GitHub\CS263_Homework\Homework02\Parctice\obj\Debug\Parctice.csprojResolveAssemblyReference.cache
+D:\GitHub\CS263_Homework\Homework02\Parctice\obj\Debug\Parctice.exe
+D:\GitHub\CS263_Homework\Homework02\Parctice\obj\Debug\Parctice.pdb

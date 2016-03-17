@@ -1,0 +1,8 @@
+D:\GitHub\CS263_Homework\Homework02\MonthToSeason\bin\Debug\MonthToSeason.exe.config
+D:\GitHub\CS263_Homework\Homework02\MonthToSeason\bin\Debug\MonthToSeason.exe
+D:\GitHub\CS263_Homework\Homework02\MonthToSeason\bin\Debug\MonthToSeason.pdb
+D:\GitHub\CS263_Homework\Homework02\MonthToSeason\bin\Debug\SeasonLibrary.dll
+D:\GitHub\CS263_Homework\Homework02\MonthToSeason\bin\Debug\SeasonLibrary.pdb
+D:\GitHub\CS263_Homework\Homework02\MonthToSeason\obj\Debug\MonthToSeason.csprojResolveAssemblyReference.cache
+D:\GitHub\CS263_Homework\Homework02\MonthToSeason\obj\Debug\MonthToSeason.exe
+D:\GitHub\CS263_Homework\Homework02\MonthToSeason\obj\Debug\MonthToSeason.pdb

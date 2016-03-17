@@ -1,0 +1,5 @@
+D:\GitHub\CS263_Homework\Homework02\SeasonLibrary\obj\Debug\SeasonLibrary.csprojResolveAssemblyReference.cache
+D:\GitHub\CS263_Homework\Homework02\SeasonLibrary\bin\Debug\SeasonLibrary.dll
+D:\GitHub\CS263_Homework\Homework02\SeasonLibrary\bin\Debug\SeasonLibrary.pdb
+D:\GitHub\CS263_Homework\Homework02\SeasonLibrary\obj\Debug\SeasonLibrary.dll
+D:\GitHub\CS263_Homework\Homework02\SeasonLibrary\obj\Debug\SeasonLibrary.pdb

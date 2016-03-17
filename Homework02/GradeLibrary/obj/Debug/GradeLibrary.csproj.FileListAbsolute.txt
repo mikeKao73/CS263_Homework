@@ -1,0 +1,5 @@
+D:\GitHub\CS263_Homework\Homework02\GradeLibrary\bin\Debug\GradeLibrary.dll
+D:\GitHub\CS263_Homework\Homework02\GradeLibrary\bin\Debug\GradeLibrary.pdb
+D:\GitHub\CS263_Homework\Homework02\GradeLibrary\obj\Debug\GradeLibrary.csprojResolveAssemblyReference.cache
+D:\GitHub\CS263_Homework\Homework02\GradeLibrary\obj\Debug\GradeLibrary.dll
+D:\GitHub\CS263_Homework\Homework02\GradeLibrary\obj\Debug\GradeLibrary.pdb
