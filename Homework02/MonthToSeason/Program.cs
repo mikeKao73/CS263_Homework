@@ -13,8 +13,8 @@ namespace MonthToSeason
         {
             Season aSeason = new Season();
 
-            Console.WriteLine("請輸入月份:");
-            aSeason.month = int.Parse(Console.ReadLine());
+            Console.Write("請輸入月份:");
+            int.TryParse(Console.ReadLine(), out aSeason.month);
             aSeason.ToSeason();
         }
     }

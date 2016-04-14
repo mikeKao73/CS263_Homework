@@ -1,0 +1,5 @@
+D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\MovieTicketForms\bin\Debug\MovieTicketForms.exe.config
+D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\MovieTicketForms\obj\Debug\MovieTicketForms.csprojResolveAssemblyReference.cache
+D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\MovieTicketForms\obj\Debug\MovieTicketForms.Form1.resources
+D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\MovieTicketForms\obj\Debug\MovieTicketForms.Properties.Resources.resources
+D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\MovieTicketForms\obj\Debug\MovieTicketForms.csproj.GenerateResource.Cache
