@@ -8,7 +8,16 @@ namespace DiscountLibrary
 {
     public class StudentDiscount : Discount
     {
-        private double price = 200;
-        private float discount = 0.8f;
+        //private double price = 200;
+        //private float movieDiscount = 0.8f;
+        public override double SetDiscount()
+        {
+            return 0.8f;
+        }
+
+        public override double SetPrice()
+        {
+            return 200;
+        }
     }
 }

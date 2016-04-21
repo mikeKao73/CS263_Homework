@@ -6,19 +6,27 @@ using System.Threading.Tasks;
 
 namespace DiscountLibrary
 {
-    public class Discount
+    public abstract class Discount
     {
-        private double price = 250;
-        private float discount = 1f;
+        //private double price;
+        //private float movieDiscount = 1f;
 
-        public double Price
-        {
-            get { return price; }
-        }
+        //public double Price
+        //{
+        //    get { return this.price; }
+        //}
 
-        public virtual double Calculate()
-        {
-            return this.Price * this.discount;
-        }
+        //public float MovieDiscount
+        //{
+        //    get { return this.movieDiscount; }
+        //}
+
+        public abstract double SetDiscount();
+
+        public abstract double SetPrice();
+
+        // {
+        //     return this.Price;
+        // }
     }
 }

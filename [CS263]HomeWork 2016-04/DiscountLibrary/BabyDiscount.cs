@@ -6,9 +6,19 @@ using System.Threading.Tasks;
 
 namespace DiscountLibrary
 {
-    public class BabyDiscount : ChildrenDiscount
+    public class BabyDiscount : Discount
     {
-        private double price = 180;
-        private float discount = 0.3f;
+        //private double price = 180;
+        //private float movieDiscount = 0.3f;
+
+        public override double SetDiscount()
+        {
+            return 0.3f;
+        }
+
+        public override double SetPrice()
+        {
+            return 180;
+        }
     }
 }

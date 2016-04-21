@@ -1,5 +1,4 @@
 D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\DiscountLibrary\bin\Debug\DiscountLibrary.dll
 D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\DiscountLibrary\bin\Debug\DiscountLibrary.pdb
-D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\DiscountLibrary\obj\Debug\DiscountLibrary.csprojResolveAssemblyReference.cache
 D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\DiscountLibrary\obj\Debug\DiscountLibrary.dll
 D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\DiscountLibrary\obj\Debug\DiscountLibrary.pdb
