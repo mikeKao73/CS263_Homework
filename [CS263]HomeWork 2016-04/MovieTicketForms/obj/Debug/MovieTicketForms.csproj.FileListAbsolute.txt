@@ -8,3 +8,4 @@ D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\MovieTicketForms\bin\Debug\Disc
 D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\MovieTicketForms\bin\Debug\DiscountLibrary.pdb
 D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\MovieTicketForms\obj\Debug\MovieTicketForms.exe
 D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\MovieTicketForms\obj\Debug\MovieTicketForms.pdb
+D:\GitHub\CS263_Homework\[CS263]HomeWork 2016-04\MovieTicketForms\obj\Debug\MovieTicketForms.csprojResolveAssemblyReference.cache

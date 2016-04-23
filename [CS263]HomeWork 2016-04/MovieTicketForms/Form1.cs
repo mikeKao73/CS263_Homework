@@ -128,9 +128,9 @@ namespace MovieTicketForms
             detailRichTextBox.Text +=
                   "一張" + typeOfTicketComboBox.Text
                 + "原價" + GetPrice(discount)
-                + "特價" + GetCeaperPrice(discount)
-                + "共" + numberOfTicketComboBox.Text + "張"
-                + "小計:" + singlePrice + "\n";
+                + ",特價" + GetCeaperPrice(discount)
+                + ",共" + numberOfTicketComboBox.Text + "張"
+                + ",小計:" + singlePrice + "\n";
             detailRichTextBox.SelectionStart = detailRichTextBox.Text.Length;
             detailRichTextBox.ScrollToCaret();
         }

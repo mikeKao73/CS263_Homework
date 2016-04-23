@@ -24,7 +24,7 @@ namespace DiscountLibrary
         public string gift(int bonusPoints)
         {
             return bonusPoints > 5 ?
-                "同時刷卡票數超過5張,免費贈送爆花+可樂套餐"
+                "同時刷卡票數超過5張,免費贈送爆花+可樂套餐\n"
                 : "";
         }
     }
